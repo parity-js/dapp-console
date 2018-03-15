@@ -28,7 +28,9 @@ const api = new Api(ethereumProvider);
 let web3;
 
 api.parity.dappsUrl().then(url => {
-  web3 = new Web3(new Web3.providers.HttpProvider(`${window.location.protocol}//${url}/rpc/`));
+  const protocol = window.location.protocol === 'https:' ? 'https:' : 'http:';
+
+  web3 = new Web3(new Web3.providers.HttpProvider(`${protocol}//${url}/rpc/`));
   window.web3 = web3;
 
   // Usage example:
@@ -326,9 +328,9 @@ api.parity.dappsUrl().then(url => {
     web3.eth.tokenReg = TokenReg.at(web3.eth.registry.lookupAddress('tokenreg', 'A'));
   }
 })
-.catch((error) => {
-  console.error(error);
-});
+  .catch((error) => {
+    console.error(error);
+  });
 
 window.api = api;
 window.web3 = web3;
