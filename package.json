@@ -67,7 +67,7 @@
     "postcss-loader": "2.0.6",
     "postcss-nested": "4.1.0",
     "postcss-simple-vars": "4.0.0",
-    "react": "15.6.1",
+    "react": "15.6.2",
     "react-codemirror": "^1.0.0",
     "react-dom": "15.6.1",
     "react-element-to-jsx-string": "14.0.2",
