@@ -74,7 +74,7 @@
     "react-hot-loader": "4.6.1",
     "react-inspector": "paritytech/react-inspector",
     "react-markdown": "4.0.4",
-    "rlp": "2.1.0",
+    "rlp": "2.2.0",
     "style-loader": "^0.23.1",
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^17.0.0",
