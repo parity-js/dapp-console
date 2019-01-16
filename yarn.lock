@@ -1267,7 +1267,7 @@ blockies@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/blockies/-/blockies-0.0.2.tgz#22ad58da4f6b382bc79bf4386c5820c70047e4ed"
 
-bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.11.3, bn.js@^4.4.0, bn.js@^4.8.0:
+bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.11.1, bn.js@^4.11.3, bn.js@^4.4.0, bn.js@^4.8.0:
   version "4.11.8"
   resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
 
@@ -5496,10 +5496,11 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^2.0.0"
     inherits "^2.0.1"
 
-rlp@2.2.1, rlp@^2.0.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/rlp/-/rlp-2.2.1.tgz#9cacf53ad2579163cc56fba64b1f4336f1f2fa46"
+rlp@2.2.2, rlp@^2.0.0:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/rlp/-/rlp-2.2.2.tgz#e6677b83cca9105371d930e01d8ffc1263139d05"
   dependencies:
+    bn.js "^4.11.1"
     safe-buffer "^5.1.1"
 
 run-async@^2.2.0:
