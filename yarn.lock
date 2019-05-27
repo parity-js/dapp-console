@@ -5073,9 +5073,9 @@ react-event-listener@^0.6.2:
     prop-types "^15.6.0"
     warning "^4.0.1"
 
-react-hot-loader@4.8.4:
-  version "4.8.4"
-  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.8.4.tgz#357ba342e367fd42d6a870a9c0601c23fa0730c6"
+react-hot-loader@4.8.7:
+  version "4.8.7"
+  resolved "https://registry.yarnpkg.com/react-hot-loader/-/react-hot-loader-4.8.7.tgz#8bcec3105d4e0e3cba52aa59800568fc9fb3322d"
   dependencies:
     fast-levenshtein "^2.0.6"
     global "^4.3.0"
