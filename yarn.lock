@@ -193,19 +193,19 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@parity/abi@^5.1.11":
-  version "5.1.11"
-  resolved "https://registry.yarnpkg.com/@parity/abi/-/abi-5.1.11.tgz#3f4ad3ad1c5dc9a0038df1c2d2dd5447ae440bd1"
+"@parity/abi@^5.1.12":
+  version "5.1.12"
+  resolved "https://registry.yarnpkg.com/@parity/abi/-/abi-5.1.12.tgz#39829e3b48a320418233066f085ff61a29c37fbc"
   dependencies:
     bignumber.js "^8.0.1"
     js-sha3 "0.8.0"
     utf8 "^3.0.0"
 
-"@parity/api@5.1.11":
-  version "5.1.11"
-  resolved "https://registry.yarnpkg.com/@parity/api/-/api-5.1.11.tgz#c8a5c3e7682be37fc0fb89f552193ca37cb0e5b2"
+"@parity/api@5.1.12":
+  version "5.1.12"
+  resolved "https://registry.yarnpkg.com/@parity/api/-/api-5.1.12.tgz#bac718dfb71ddb504b154b37b9b10963db5e5728"
   dependencies:
-    "@parity/abi" "^5.1.11"
+    "@parity/abi" "^5.1.12"
     bignumber.js "^8.0.1"
     blockies "0.0.2"
     es6-error "4.0.2"
@@ -3387,17 +3387,13 @@ event-emitter@~0.3.5:
     d "1"
     es5-ext "~0.10.14"
 
-eventemitter3@3.1.2:
+eventemitter3@3.1.2, eventemitter3@^3.1.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-3.1.2.tgz#2d3d48f9c346698fce83a85d7d664e98535df6e7"
 
 eventemitter3@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-2.0.3.tgz#b5e1079b59fb5e1ba2771c0a993be060a58c99ba"
-
-eventemitter3@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-3.1.0.tgz#090b4d6cdbd645ed10bf750d4b5407942d7ba163"
 
 events@^1.0.0:
   version "1.1.1"
@@ -5785,7 +5781,7 @@ nan@^2.12.1, nan@^2.14.0:
   version "2.14.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.0.tgz#7818f722027b2459a86f0295d434d1fc2336c52c"
 
-nan@^2.2.1, nan@^2.3.0, nan@^2.3.3:
+nan@^2.2.1, nan@^2.3.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.8.0.tgz#ed715f3fe9de02b57a5e6252d90a96675e1f085a"
 
@@ -8632,12 +8628,6 @@ type-is@~1.6.17, type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
-typedarray-to-buffer@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/typedarray-to-buffer/-/typedarray-to-buffer-3.1.2.tgz#1017b32d984ff556eba100f501589aba1ace2e04"
-  dependencies:
-    is-typedarray "^1.0.0"
-
 typedarray-to-buffer@^3.1.5:
   version "3.1.5"
   resolved "https://registry.yarnpkg.com/typedarray-to-buffer/-/typedarray-to-buffer-3.1.5.tgz#a97ee7a9ff42691b9f783ff1bc5112fe3fca9080"
@@ -9335,16 +9325,7 @@ webpack@^3.12.0:
     webpack-sources "^1.0.1"
     yargs "^8.0.2"
 
-websocket@^1.0.25:
-  version "1.0.25"
-  resolved "https://registry.yarnpkg.com/websocket/-/websocket-1.0.25.tgz#998ec790f0a3eacb8b08b50a4350026692a11958"
-  dependencies:
-    debug "^2.2.0"
-    nan "^2.3.3"
-    typedarray-to-buffer "^3.1.2"
-    yaeti "^0.0.6"
-
-"websocket@github:web3-js/WebSocket-Node#polyfill/globalThis":
+websocket@^1.0.25, "websocket@github:web3-js/WebSocket-Node#polyfill/globalThis":
   version "1.0.29"
   uid b134a75541b5db59668df81c03e926cd5f325077
   resolved "https://codeload.github.com/web3-js/WebSocket-Node/tar.gz/b134a75541b5db59668df81c03e926cd5f325077"
