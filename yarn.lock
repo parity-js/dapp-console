@@ -2864,12 +2864,12 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
-ejs-loader@0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/ejs-loader/-/ejs-loader-0.3.3.tgz#021aa196b8858f05b6f095576c4afe61012ccc2e"
+ejs-loader@0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/ejs-loader/-/ejs-loader-0.3.5.tgz#1105ac1a262e3f36079e8b2bd6ec6058434f60e7"
   dependencies:
     loader-utils "^0.2.7"
-    lodash "^4.17.11"
+    lodash "^4.17.15"
 
 electron-releases@^2.1.0:
   version "2.1.0"
@@ -5396,7 +5396,7 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
 
-lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.14, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1:
+lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.2.1:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
 
