@@ -6434,9 +6434,9 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-phoneformat.js@1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/phoneformat.js/-/phoneformat.js-1.0.8.tgz#1d18748c662264f3cbea26fae44fbbfc39ec8dea"
+phoneformat.js@1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/phoneformat.js/-/phoneformat.js-1.0.9.tgz#ac397d459db0d914ea4df3e84337f7d5bb93e58e"
 
 pify@^2.0.0, pify@^2.3.0:
   version "2.3.0"
