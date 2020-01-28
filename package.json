@@ -70,7 +70,7 @@
     "react": "15.6.2",
     "react-codemirror": "^1.0.0",
     "react-dom": "15.6.2",
-    "react-element-to-jsx-string": "14.3.0",
+    "react-element-to-jsx-string": "14.3.1",
     "react-hot-loader": "4.12.16",
     "react-inspector": "paritytech/react-inspector",
     "react-markdown": "4.3.1",
