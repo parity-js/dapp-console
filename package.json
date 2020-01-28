@@ -79,7 +79,7 @@
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^17.0.0",
     "url-loader": "^1.1.2",
-    "validator": "12.1.0",
+    "validator": "12.2.0",
     "web3": "1.2.2",
     "webpack": "^3.12.0"
   }
