@@ -3251,15 +3251,15 @@ eslint-config-semistandard@^11.0.0:
   version "11.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-semistandard/-/eslint-config-semistandard-11.0.0.tgz#44eef7cfdfd47219e3a7b81b91b540e880bb2615"
 
-eslint-config-standard-jsx@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-7.0.0.tgz#05c737d9eab524860fe6853cfd535045c3e07e5b"
+eslint-config-standard-jsx@^8.0.0:
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-8.1.0.tgz#314c62a0e6f51f75547f89aade059bec140edfc7"
 
-eslint-config-standard-react@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-react/-/eslint-config-standard-react-8.0.0.tgz#567092a4142013046131f3d4c96d119d76392a7c"
+eslint-config-standard-react@^9.2.0:
+  version "9.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard-react/-/eslint-config-standard-react-9.2.0.tgz#b21f05c087c1b0cfeea9fa3bff3cf42bd08a68a9"
   dependencies:
-    eslint-config-standard-jsx "^7.0.0"
+    eslint-config-standard-jsx "^8.0.0"
 
 eslint-config-standard@^10.2.1:
   version "10.2.1"
